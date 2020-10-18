@@ -10,7 +10,7 @@
 Hello, I'm  Legendary King, a full stack developer from India <img src="https://cdn.discordapp.com/emojis/649216868682432522.gif?v=1" width="30px"><img src="https://cdn.discordapp.com/emojis/649216868074127360.gif?v=1" width="30px">
 <br>
 I mostly like to work on server side projects!
-Besides programming I stream and game [Twitch](https://www.twitch.tv/legendary_king007)[Youtube](https://www.youtube.com/c/legendaryking007)[Instagram](https://www.instagram.com/leg_7ex631_) [Twitter](https://twitter.com/LEGENDARY_KING0)
+Besides programming I stream and game [Twitch <img alt="My Twitch" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />](https://www.twitch.tv/legendary_king007), [Youtube](https://www.youtube.com/c/legendaryking007), [Instagram](https://www.instagram.com/leg_7ex631_), [Twitter](https://twitter.com/LEGENDARY_KING0)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -42,8 +42,7 @@ HTML          0 hrs 0 mins   █░░░░░░░░░░░░░░░░
 
 🥶 **Todo List:**
 <!-- TODO-IST:START -->        
-🌸   Should work on structures in diswrap.js          
-😪   Should sleep well                      
+😪   Should sleep more then 5 hours daily
 <!-- TODO-IST:END -->
 
 
