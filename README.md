@@ -50,7 +50,7 @@ HTML          0 hrs 0 mins   █░░░░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mercurydev986&show_icons=true&theme=gotham" alt="Mercurydev986
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LEGENDARY-KING&show_icons=true&theme=gotham" alt="Mercurydev986
 
 </details>
 
